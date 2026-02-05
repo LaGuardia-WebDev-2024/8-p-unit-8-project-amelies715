@@ -4,22 +4,23 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-color: rgb(2, 16, 29);
   text-align: center;
-  color: navy;
+  color: rgb(247, 225, 33);
   margin: auto;
-  font-family: water;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
 }
 
 h1{
-  font-size: 30px;
+  font-size: 43px;
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyczFkM2pjcjdpb2Z2bzNydXhvYjNrd3djdGdsbXd2eDhhaWFsM2N0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JNy7DzgqUnh9p93aru/giphy.gif");
   background-size: 600px 400px;
   border-radius: 300px;
-  border: 5px solid white;
+  border: 5px solid rgb(15, 13, 13);
 }
 
 
